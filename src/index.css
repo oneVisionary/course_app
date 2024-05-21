@@ -1,0 +1,8 @@
+:root{
+  --primaryColor:#267402;
+
+  
+}
+button:hover{
+  background-color: var(--primaryColor)
+}
